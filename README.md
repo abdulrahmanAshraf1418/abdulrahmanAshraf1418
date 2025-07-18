@@ -46,9 +46,11 @@
 ---
 
 <p align="center">
+  <br />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahmanashraf1418&show_icons=true&theme=tokyonight" alt="abdulrahmanashraf1418's stats" />
   <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanashraf1418&layout=compact&theme=tokyonight" alt="Most used languages" />
+  <br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahmanashraf1418&langs_count=5&theme=tokyonight" alt="Most used languages" />
 </p>
 
 
